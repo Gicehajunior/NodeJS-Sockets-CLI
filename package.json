@@ -1,0 +1,15 @@
+{
+  "name": "enumerate-with-node",
+  "version": "1.0.0",
+  "description": "For network enumeration",
+  "main": "index.js",
+  "bin": {
+    "enumerate": "index.js"
+  },
+  "keywords": [],
+  "author": "Giceha Junior",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
